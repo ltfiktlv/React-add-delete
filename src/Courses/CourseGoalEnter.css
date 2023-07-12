@@ -1,0 +1,14 @@
+.style-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.style-form {
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 2rem 4rem;
+}
+.style-button {
+  display: block;
+  margin: 1rem auto;
+}

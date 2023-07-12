@@ -1,0 +1,19 @@
+.goal-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  border-radius: 12px;
+  width: 50%;
+  margin: 1rem auto;
+  background-color: beige;
+}
+.goals {
+  border: 1px solid red;
+  background-color: antiquewhite;
+  border-radius: 12px;
+  padding: 1rem 7rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
